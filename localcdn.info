@@ -1,0 +1,3 @@
+name = Local CDN
+description = Acts as a CDN to serve resources from your own server that would otherwise be loaded from a 3rd party service, e.g. for GDPR compliance.
+core = 7.x
